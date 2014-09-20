@@ -1,0 +1,28 @@
+/** Layout **/
+
+#header {
+  margin-top: 15px;
+  margin-bottom: 10px !important;
+}
+
+#footer .block {
+  width: 215px;
+}
+
+#sidebar.logged-in {
+  margin-top: 80px;
+}
+
+.tabs.logged-out {
+  margin: 0px;
+}
+
+/** Content **/
+
+.front h1#page-title {
+  display: block;
+}
+
+form .form-text, form .form-textarea {
+  border: 1px solid #363636;
+}
